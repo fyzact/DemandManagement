@@ -6,3 +6,12 @@ C:\Users\facet\source\repos\DemandManagement\DemandManagement.MessageContracts\o
 C:\Users\facet\source\repos\DemandManagement\DemandManagement.MessageContracts\bin\Debug\netcoreapp3.1\DemandManagement.MessageContracts.pdb
 C:\Users\facet\source\repos\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.dll
 C:\Users\facet\source\repos\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.pdb
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\bin\Debug\netcoreapp3.1\DemandManagement.MessageContracts.deps.json
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\bin\Debug\netcoreapp3.1\DemandManagement.MessageContracts.dll
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\bin\Debug\netcoreapp3.1\DemandManagement.MessageContracts.pdb
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.csprojAssemblyReference.cache
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.AssemblyInfo.cs
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.dll
+C:\Users\facet\Desktop\New folder\DemandManagement\DemandManagement.MessageContracts\obj\Debug\netcoreapp3.1\DemandManagement.MessageContracts.pdb

@@ -10,7 +10,7 @@ namespace DemandManagement.Thirdparty.Service
         static void Main(string[] args)
         {
             Console.Title = "ThirdParty";
-          var bus=  BusConfigurator.ConfigureBus((cfg, host) =>
+           var bus=  BusConfigurator.ConfigureBus((cfg, host) =>
             {
                 cfg.ReceiveEndpoint(RabbitMqConsts.ThirdPartyServiceQueue, e =>
                 {

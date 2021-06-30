@@ -11,7 +11,7 @@ namespace DemandManagement.Notification
     {
         public async Task Consume(ConsumeContext<IRegisteredDemandEvent> context)
         {
-            await Console.Out.WriteLineAsync($"Notification sent: Demand id {context.Message.DemandId}");
+            await Console.Out.WriteLineAsync($"Notification sent: Demand id {context.Message.DemandId}, Time:{DateTime.Now}");
         }
     }
 }
